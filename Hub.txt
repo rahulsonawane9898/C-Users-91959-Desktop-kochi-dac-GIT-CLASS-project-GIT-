@@ -17,4 +17,6 @@ Modules of Hospital Management System
  Pharmacist module
  Laboratory module
  Accountant module
+use different module
+
 Users/ Roles of Hospital Management Syste ok its ENd now!!!
